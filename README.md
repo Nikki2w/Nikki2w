@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem-vindos ao meu perfil 💜
 
-<!--
-**Nikki2w/Nikki2w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pode me chamar de Nik
 
-Here are some ideas to get you started:
+- Estou no 2°EM e estou fazendo o curso [Alura](https://www.alura.com)
+-  Terminei o curso do Scratch e JavaScript
+-  Agora para finalizar o último curso utilizarei este espaço para compartilhar o projeto desenvolvido no curso anterior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Pode entrar em contato comigo:
+-  Instagram: @nikki2w
+  
+
+
+
+
+![](https://media1.tenor.com/m/fpTPMWRwUcIAAAAC/bts-ok.gif)
